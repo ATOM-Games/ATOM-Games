@@ -1,35 +1,35 @@
 I'm Vladimir, game developer. This is my "skils":
 
--> C#
+✔ C#
 
--> C++
+✔ C++
 
--> Java
+✔ Java
 
--> JavaScript
+✔ JavaScript
 
--> PHP
+✔ PHP
 
--> React
+✔ React
 
--> CSS
+✔ CSS
 
--> HTML
+✔ HTML
 
--> play to computers games :)))
+✔ play to computers games :)))
 
 I've a next work experience:
 
--> With neural technology
+✔ With neural technology
 
--> In Unity 3D programm
+✔ In Unity 3D programm
 
--> VR and AR (in Unity)
+✔ VR and AR (in Unity)
 
--> In Unreal Engiene programm
+✔ In Unreal Engiene programm
 
--> In Maxon Cinema4D and multiplication
+✔ In Maxon Cinema4D and multiplication
 
--> In ConyVegas and Adobe Premiere Pro
+✔ In ConyVegas and Adobe Premiere Pro
 
--> In 3D modelling and animating
+✔ In 3D modelling and animating
