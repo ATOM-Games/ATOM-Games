@@ -16,4 +16,3 @@ I've a next work experience:
 -> In Maxon Cinema4D and multiplication
 -> In ConyVegas and Adobe Premiere Pro
 -> In 3D modelling and animating
-
