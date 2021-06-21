@@ -33,3 +33,5 @@ I've a next work experience:
 ✔ In ConyVegas and Adobe Premiere Pro
 
 ✔ In 3D modelling and animating
+
+✔ XNA-technology
